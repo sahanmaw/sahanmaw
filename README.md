@@ -1,6 +1,6 @@
 ## Hello, I'm Sahanma Wimalasena
 
-A passionate Software Engineering undergraduate at the **University of Westminster (UoW)** 
+A passionate Software Engineering undergraduate at the **University of Westminster** 
 
 
 
